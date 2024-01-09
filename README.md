@@ -1,8 +1,8 @@
-# WpfChart
-A free, pure C # developed WPF drawing plugin，It can directly draw a Double List as a curve.
-#How to Use
-1, Declare an object
-private LcLineChartView _chart = null;
+# WpfChart\r\n
+A free, pure C # developed WPF drawing plugin，It can directly draw a Double List as a curve.\r\n
+#How to Use\r\n
+1, Declare an object\r\n
+private LcLineChartView _chart = null;\r\n
 2, Initialization
 _chart = new LcLineChartView(ChartGrid, 2);
 _chart.ShowBorder();
